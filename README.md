@@ -79,9 +79,7 @@
 | [Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-gnome-shell) |
 | [Pardus Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-pardus-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-pardus-gnome-shell) |
 | [Debian Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
-| [MxLinux Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-mxlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-gnome-shell) |
-| [Xubuntu 探索筆記](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
-| [LinuxMint Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-linuxmint-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-gnome-shell) |
+| [Ubuntu Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ubuntu-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-gnome-shell) |
 | [Fedora Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-fedora-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-fedora-gnome-shell) |
 | [Archlinux Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-archlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-gnome-shell) |
 | [Manjaro Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-manjaro-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-gnome-shell) |
