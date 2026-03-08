@@ -39,6 +39,10 @@
 | Gnome Shell Resource |
 | -------------------- |
 | [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
+
+
+| Style Management |
+| ---------------- |
 | [make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
 | [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
 
